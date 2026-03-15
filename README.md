@@ -1,7 +1,7 @@
 # Olá, eu sou o João Victor! 👋
 
 🎓 Estudante de **Ciência da Computação** em CESUPA — Belém, PA  
-💻 Aprendendo **C** e mesclando no mundo do desenvolvimento  
+💻 Aprendendo **C** e mergulhando no mundo do desenvolvimento  
 🚀 Em busca do primeiro projeto incrível  
 📍 Belém, Pará — Brasil 
 
