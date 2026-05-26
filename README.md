@@ -29,6 +29,12 @@
 
 ---
 
+## 🏆 Prêmios e Reconhecimentos
+
+🥈 **2º Lugar** — Hackathon SENAI (3ª Edição)
+
+---
+
 ## 🚀 Projetos em Destaque
 
 Desenvolvendo soluções práticas para consolidar aprendizado em:
