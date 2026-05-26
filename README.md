@@ -1,35 +1,52 @@
-# Olá, eu sou o João Victor! 👋
+# Olá! Sou João Victor 👋
 
-🎓 Estudante de **Ciência da Computação** em CESUPA — Belém, PA  
-💻 Aprendendo **C**, **Python** e mergulhando no mundo do desenvolvimento  
-🚀 Em busca do primeiro projeto incrível  
-📍 Belém, Pará — Brasil 
+**Estudante de Programação | Desenvolvendo projetos práticos em C, Python e Web**
+
+🎓 Ciência da Computação — CESUPA, Belém, PA  
+💻 Aprendendo através da prática: sistemas, aplicações e soluções reais  
+📍 Belém, Pará — Brasil
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Código VS](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📚 Atualmente estudando
 
-- 🔵 Linguagem **C** — estruturas, ponteiros, alocação de memória
-- 🔵 Lógica de programação e algoritmos
-- 🔵 Fundamentos de **Git e GitHub**
+- 🔵 **Linguagem C** — estruturas, ponteiros, alocação de memória e otimização
+- 🔵 **Desenvolvimento Web** — HTML, CSS, JavaScript e responsividade
+- 🔵 **Lógica de Programação e Algoritmos** — análise e resolução de problemas
+- 🔵 **Controle de Versão** — Git e boas práticas no GitHub
+
+---
+
+## 🚀 Projetos em Destaque
+
+Desenvolvendo soluções práticas para consolidar aprendizado em:
+- Sistemas de gerenciamento com banco de dados
+- Aplicações web interativas
+- Problemas algoritmos e estruturas de dados
+- Jogos e aplicações de desktop
+
+*Confira meus repositórios para mais detalhes sobre cada projeto.*
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<dividir alinhar="centro">
-  <imagem alta="160em" fonte="https://github-readme-stats.vercel.app/api?username=jvctordev&maisrar_ícones=verdadeiro&tema=tokyonight&incluir_todos_commits=verdadeiro&contagem_privada=verdadeiro"/>
-  <imagem alta="160em" fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=jvctordev&layout=compacto&contagem_langs=6&tema=tokyonight"/>
-</dividir>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jvctordev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvctordev&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 ---
 
@@ -40,6 +57,6 @@
 
 ---
 
-<dividir alinhar="centro">
-  <i>"Todo especial já foi um dia um iniciante."</i> 💡
-</dividir>
+<div align="center">
+  <i>"Todo especialista já foi um dia um iniciante."</i> 💡
+</div>
