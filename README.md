@@ -23,6 +23,7 @@
 ## 📚 Atualmente estudando
 
 - 🔵 **Linguagem C** — estruturas, ponteiros, alocação de memória e otimização
+- 🔵 **Python** — lógica, comandos básicos, apis e resolução de problemas
 - 🔵 **Desenvolvimento Web** — HTML, CSS, JavaScript e responsividade
 - 🔵 **Lógica de Programação e Algoritmos** — análise e resolução de problemas
 - 🔵 **Controle de Versão** — Git e boas práticas no GitHub
